@@ -215,6 +215,10 @@ a:hover, a:focus, a:active {
   height: 3px !important;
   
 }
+
+.dropDownArrow {
+  color:black;
+}
 /* USE FOR THE PROGRESS BAR IN SKILLS
 .col ,.col-6 ,.dev-icons{
   margin:auto;
