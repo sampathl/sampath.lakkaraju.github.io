@@ -219,6 +219,10 @@ a:hover, a:focus, a:active {
 .dropDownArrow {
   color:black;
 }
+
+#subAward{
+  list-style-type: none !important;
+}
 /* USE FOR THE PROGRESS BAR IN SKILLS
 .col ,.col-6 ,.dev-icons{
   margin:auto;
